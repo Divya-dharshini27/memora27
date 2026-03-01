@@ -1,4 +1,4 @@
-# 📖 Memory Keeper
+# 📖 Memora
 
 > *Preserve the stories that matter most — before they're gone forever.*
 
