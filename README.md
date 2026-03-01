@@ -16,14 +16,6 @@ A nostalgic web app to record, store, and revisit precious life memories through
 
 ---
 
-## 🖥 Tech Stack
-React · Vite · Supabase ·  · React Router
-
-
-Run `supabase_setup.sql` in your Supabase SQL Editor, create 3 storage buckets (`memory-audio`, `memory-photos`, `memory-files`), then open **http://localhost:5173**
-
----
-
 
 
 
